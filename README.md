@@ -12,7 +12,6 @@
 ## 🚀 Current Journey
 - ✔️ PJPT Certified
 - 🔄 Daily lab practice (HTB, TryHackMe, custom labs)
-- 📖 36 backlogs — clearing with strategy (1+ done)
 - 🎯 UAE Pentester Role @ 6K AED/month (mission in progress)
 
 ## 📌 Featured Projects
