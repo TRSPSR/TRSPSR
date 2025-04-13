@@ -2,8 +2,17 @@
 
 ---
 
-🎯 Aspiring Penetration Tester | PJPT Certified  
-🔐 Shadow Soar: Preparing for OSCP & targeting UAE job by July 2025  
+```txt
+████████╗██████╗ ███████╗██████╗ ███████╗██████╗ 
+╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗
+   ██║   ██████╔╝███████╗██████╔╝███████╗██████╔╝
+   ██║   ██╔══██╗╚════██║██╔═══╝ ╚════██║██╔══██╗
+   ██║   ██║  ██║███████║██║     ███████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
+```
+
+🎯 Junior Penetration Tester | 🛡️ Certified PJPT — Practical Junior Penetration Tester  
+🔐 Shadow Soar: Preparing for OSCP | PWK Labs | HTB | THM | Custom Setups & targeting UAE by Auguest 2025  
 🧠 Focused on discipline, stoicism, and self-growth
 
 ## 🧰 Tools & Tech
@@ -12,7 +21,7 @@
 ## 🚀 Current Journey
 - ✔️ PJPT Certified
 - 🔄 Daily lab practice (HTB, TryHackMe, custom labs)
-- 🎯 UAE Pentester Role @ 6K AED/month (mission in progress)
+- 🎯 UAE Pentester Role (mission in progress)
 
 ## 📌 Featured Projects
 Coming soon:
@@ -37,28 +46,10 @@ Coming soon:
 🔐 PJPT Certified | Pentester in Progress | OSCP Prep
 ```
 
-```txt
-████████╗██████╗ ███████╗██████╗ ███████╗██████╗ 
-╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗
-   ██║   ██████╔╝███████╗██████╔╝███████╗██████╔╝
-   ██║   ██╔══██╗╚════██║██╔═══╝ ╚════██║██╔══██╗
-   ██║   ██║  ██║███████║██║     ███████║██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
-```
 
 ---
 
-## 🧠 About Me
 
-```bash
-> mission: Shadow Soar
-> objective: 6K AED/month Pentester role in UAE by July 2025
-> state: Focused | Stoic | Disciplined
-```
-
-- 🛡️ Certified PJPT — Practical Junior Penetration Tester  
-- ⚔️ OSCP Prep: PWK Labs | HTB | THM | Custom Setups  
-- 🧨 Tools: `Burp Suite`, `Nmap`, `Netcat`, `Metasploit`, `Wireshark`, `Gobuster`, `ffuf`, `Linux`, `Python`
 
 ---
 
@@ -87,16 +78,6 @@ Coming soon:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak Stats](https://streak-stats.demolab.com?user=TRSPSR&theme=matrix&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRSPSR&layout=compact&theme=algolia)
-
----
-
-## 💻 Connect
-
-```bash
-> LinkedIn: [Your LinkedIn URL]
-> Email: trspsr@example.com
-> Signal Strength: 📶 Focused, Hungry, Unstoppable
-```
 
 ---
 
