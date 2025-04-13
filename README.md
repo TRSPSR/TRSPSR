@@ -26,5 +26,5 @@ Coming soon:
 
 ## 🔗 Reach Out
 - 💼 [LinkedIn](#)
-- 📧 trspsr@example.com
+- 📧 althafva@proton.me
 - 🧠 Focused on skill, not noise.
