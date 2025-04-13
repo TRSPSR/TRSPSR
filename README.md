@@ -32,6 +32,7 @@ Coming soon:
 ## 📈 Stats & Activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=TRSPSR&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRSPSR&layout=compact&theme=algolia)
 
 ## 🔗 Reach Out
 - 💼 [LinkedIn](#)
@@ -70,16 +71,6 @@ Coming soon:
 ┌──[0x03] Tools & Scripts
 └── Bash / Python payloads
 ```
-
----
-
-## 📡 Activity Feed
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com?user=TRSPSR&theme=matrix&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRSPSR&layout=compact&theme=algolia)
-
----
 
 ```
 "Discipline is your sword. Silence is your armor. Purpose is your power."
