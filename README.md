@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm TRSPSR</h1>
 
-<!--
-**TRSPSR/TRSPSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 Aspiring Penetration Tester | PJPT Certified  
+🔐 Shadow Soar: Preparing for OSCP & targeting UAE job by July 2025  
+🧠 Focused on discipline, stoicism, and self-growth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Tech
+![Tools](https://img.shields.io/badge/Tools-Burp--Suite-blueviolet) ![Tools](https://img.shields.io/badge/Nmap-informational) ![Tools](https://img.shields.io/badge/Metasploit-critical) ![Tools](https://img.shields.io/badge/Netcat-lightgrey) ![Tools](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+
+## 🚀 Current Journey
+- ✔️ PJPT Certified
+- 🔄 Daily lab practice (HTB, TryHackMe, custom labs)
+- 📖 36 backlogs — clearing with strategy (1+ done)
+- 🎯 UAE Pentester Role @ 6K AED/month (mission in progress)
+
+## 📌 Featured Projects
+Coming soon:
+- 🛡️ Writeups & exploits
+- 🧪 Custom pentesting labs
+- 🔍 Notes from OSCP prep
+
+## 📈 Stats & Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=TRSPSR&theme=dark)
+
+## 🔗 Reach Out
+- 💼 [LinkedIn](#)
+- 📧 trspsr@example.com
+- 🧠 Focused on skill, not noise.
