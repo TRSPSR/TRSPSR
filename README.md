@@ -1,5 +1,8 @@
-<h1 align="center">Hey there 👋, I'm TRSPSR</h1>
-
+```bash
+┌──(root💀TRSPSR)-[~/shadow_soar]
+└─$ whoami
+🔐 PJPT Certified | Pentester in Progress | OSCP Prep
+```
 ---
 
 ```txt
@@ -38,15 +41,6 @@ Coming soon:
 - 💼 [LinkedIn](#)
 - 📧 althafva@proton.me
 - 🧠 Focused on skill, not noise.
-
-
-
-```bash
-┌──(root💀TRSPSR)-[~/shadow_soar]
-└─$ whoami
-🔐 PJPT Certified | Pentester in Progress | OSCP Prep
-```
-
 
 ---
 
