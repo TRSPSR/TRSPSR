@@ -28,3 +28,80 @@ Coming soon:
 - 💼 [LinkedIn](#)
 - 📧 althafva@proton.me
 - 🧠 Focused on skill, not noise.
+
+
+
+```bash
+┌──(root💀TRSPSR)-[~/shadow_soar]
+└─$ whoami
+🔐 PJPT Certified | Pentester in Progress | OSCP Prep
+```
+
+```txt
+██╗██████╗ ███████╗███████╗███████╗██████╗ ███████╗██████╗ 
+██║██╔══██╗██╔════╝╚══███╔╝██╔════╝██╔══██╗██╔════╝██╔══██╗
+██║██████╔╝█████╗    ███╔╝ █████╗  ██████╔╝█████╗  ██║  ██║
+██║██╔═══╝ ██╔══╝   ███╔╝  ██╔══╝  ██╔═══╝ ██╔══╝  ██║  ██║
+██║██║     ███████╗███████╗███████╗██║     ███████╗██████╔╝
+╚═╝╚═╝     ╚══════╝╚══════╝╚══════╝╚═╝     ╚══════╝╚═════╝ 
+```
+
+---
+
+## 🧠 About Me
+
+```bash
+> mission: Shadow Soar
+> objective: 6K AED/month Pentester role in UAE by July 2025
+> state: Focused | Stoic | Disciplined
+```
+
+- 🛡️ Certified PJPT — Practical Junior Penetration Tester  
+- ⚔️ OSCP Prep: PWK Labs | HTB | THM | Custom Setups  
+- 🧨 Tools: `Burp Suite`, `Nmap`, `Netcat`, `Metasploit`, `Wireshark`, `Gobuster`, `ffuf`, `Linux`, `Python`
+
+---
+
+## 🧪 Projects & Repos
+> Stay tuned for lab reports, exploit scripts & OSCP notes...
+
+```bash
+┌──[0x01] Exploit-Development
+├── Buffer Overflow
+├── Linux PrivEsc
+├── Win PrivEsc
+└── Reverse Shells
+
+┌──[0x02] Reports
+├── PJPT Labs
+└── VulnHub | HTB | THM writeups
+
+┌──[0x03] Tools & Scripts
+└── Bash / Python payloads
+```
+
+---
+
+## 📡 Activity Feed
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=TRSPSR&theme=matrix&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRSPSR&layout=compact&theme=algolia)
+
+---
+
+## 💻 Connect
+
+```bash
+> LinkedIn: [Your LinkedIn URL]
+> Email: trspsr@example.com
+> Signal Strength: 📶 Focused, Hungry, Unstoppable
+```
+
+---
+
+```
+"Discipline is your sword. Silence is your armor. Purpose is your power."
+```
+
+> ⛓️ [Shadow Soar Activated...]
