@@ -8,7 +8,7 @@
    ██║   ██╔══██╗╚════██║██╔═══╝ ╚════██║██╔══██╗
    ██║   ██║  ██║███████║██║     ███████║██║  ██║
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
-🔐 PJPT Certified | Pentester | OSCP Prep
+   PJPT Certified | Pentester | OSCP Prep
 ```
 
 🎯 Junior Penetration Tester | 🛡️ Certified PJPT — Practical Junior Penetration Tester  
@@ -16,7 +16,7 @@
 🧠 Focused on discipline, stoicism, and self-growth
 
 ## 🧰 Tools & Tech
-![Tools](https://img.shields.io/badge/Tools-Burp--Suite-blueviolet) ![Tools](https://img.shields.io/badge/Nmap-informational) ![Tools](https://img.shields.io/badge/Metasploit-critical) ![Tools](https://img.shields.io/badge/Netcat-lightgrey) ![Tools](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+![Tools](https://img.shields.io/badge/Tools-Burp--Suite-blueviolet) ![Tools](https://img.shields.io/badge/Nmap-informational) ![Tools]([https://img.shields.io/badge/Metasploit-critical](https://img.shields.io/badge/Metasploit-659AD2?style=for-the-badge&logo=metasploit&logoColor=white)) ![Tools](https://img.shields.io/badge/Netcat-lightgrey) ![Tools](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 
 ## 🚀 Current Journey
 - ✔️ PJPT Certified
