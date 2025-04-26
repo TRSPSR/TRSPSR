@@ -18,21 +18,17 @@
 ## 🧰 Tools & Tech
 ![Tools](https://img.shields.io/badge/Tools-Burp--Suite-blueviolet) ![Tools](https://img.shields.io/badge/Nmap-informational) ![Tools](https://img.shields.io/badge/Metasploit-659AD2?style=for-the-badge&logo=metasploit&logoColor=white) ![Tools](https://img.shields.io/badge/Netcat-lightgrey) ![Tools](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 
-## 🚀 Current Journey
-- ✔️ PJPT Certified
-- 🔄 Daily lab practice (HTB, TryHackMe, custom labs)
-- 🎯 UAE Pentester Role (mission in progress)
+## Current Journey
+-  PJPT Certified
+-  Daily lab practice (HTB, TryHackMe, custom labs)
+-  UAE Pentester Role (mission in progress)
 
-## 📌 Featured Projects
+## Featured Projects
 Coming soon:
 - 🛡️ Writeups & exploits
 - 🧪 Custom pentesting labs
 - 🔍 Notes from OSCP prep
 
-## 📈 Stats & Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRSPSR&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=TRSPSR&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRSPSR&layout=compact&theme=algolia)
 
 ## 🔗 Reach Out
 - 💼 [LinkedIn](#)
